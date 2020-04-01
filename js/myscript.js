@@ -8,3 +8,4 @@ let message = coffeeMachine;
 coffeeMachine();
 coffeeMachine();
 message();
+message();
